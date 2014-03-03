@@ -24,5 +24,6 @@ Remarks
 =======
 
 1) Model used here to unify emotions assigned to each word from SentiWordNet3.0 is not affective or more wrong, which will be updated in future. For now consider this app as a fun project instead of taking results seriously.
+
 2) This folder contains many scripts that are not being used for this project. Requires cleanup.
 
