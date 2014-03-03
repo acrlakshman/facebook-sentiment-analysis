@@ -6,6 +6,8 @@ Facebook app written during HackMadison2014 event at UW-Madison. Analyses emotio
 How to use
 ==========
 
+Make sure to turn off ghostery or similar apps to run this site. Also this app was poorly written, hence it will ask for too many permissions, please accept them for now or atleast the ones which you feel necessary after reading the description above. I will clean this.
+
 Select a friend from the dropdown box and wait for the dial to become steady.
 
 Result is on the scale of 0 to 1, 0 for most negative emotion, 1 for the best.
@@ -23,7 +25,7 @@ Source code at <a href="https://github.com/kch/heroku-php-pg">https://github.com
 Remarks
 =======
 
-1) Model used here to unify emotions assigned to each word from SentiWordNet3.0 is not affective or more wrong, which will be updated in future. For now consider this app as a fun project instead of taking results seriously.
+1) Model used here to unify emotions assigned to each word from <a href="http://sentiwordnet.isti.cnr.it/">SentiWordNet3.0</a> is not affective or more wrong, which will be updated in future. For now consider this app as a fun project instead of taking results seriously.
 
 2) This folder contains many scripts that are not being used for this project. Requires cleanup.
 
