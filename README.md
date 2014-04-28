@@ -25,7 +25,7 @@ Source code at <a href="https://github.com/kch/heroku-php-pg">https://github.com
 Remarks
 =======
 
-1) Model used here to unify emotions assigned to each word from <a href="http://sentiwordnet.isti.cnr.it/">SentiWordNet3.0</a> is `not accurate` or `more wrong`, which will be updated in future. For now consider this app as a fun project instead of taking results seriously.
+1) Model used here to unify emotions assigned to each word from <a href="http://sentiwordnet.isti.cnr.it/">SentiWordNet3.0</a> is `not accurate` and more precisely it is `wrong`, which will be updated in future. For now consider this app as a fun project instead of taking results seriously.
 
 2) This folder contains many scripts that are not being used for this project. Requires cleanup.
 
